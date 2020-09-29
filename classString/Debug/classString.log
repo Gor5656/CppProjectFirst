@@ -1,6 +1,5 @@
-﻿  String.cpp
-C:\Users\sky\source\repos\classString\classString\String.cpp(96,1): error C2280: "String::String(const String &)": предпринята попытка ссылки на удаленную функцию
-C:\Users\sky\source\repos\classString\classString\String.h(19): message : см. объявление "String::String"
-C:\Users\sky\source\repos\classString\classString\String.h(19,2): message : "String::String(const String &)": функция явно удалена.
-  main.cpp
-  Создание кода...
+﻿  main.cpp
+  String.cpp
+  Generating Code...
+C:\Users\sky\source\repos\classString\classString\String.cpp(116): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+  classString.vcxproj -> C:\Users\sky\source\repos\classString\Debug\classString.exe

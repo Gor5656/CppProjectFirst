@@ -10,6 +10,7 @@ int main() {
 
 	const String S1 = "barev";
 
-
+	cout << S1 << endl;
+	
 	return 0;
 }
